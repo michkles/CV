@@ -1,48 +1,87 @@
-## Your Name
+## Michal Klesinski
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A former IT technician and customer advisor with a desire of self-development, who decided to learn coding at Europe's leading Web developer bootcamp - Makers Academy. As a result of this course I am a confident Full-stack junior web developer with a strong passion for code. 
+
+I am seeking a role as Junior Web Developer, preferably in Agile environment, where I can contribute to front-end and back-end development. What is more, I am self-confident in my ability to quickly learn any new technology. 
+
+## Projects
+
+| Name | Description | Technologies | Timeframe |
+| --- | --- | --- | --- |
+| [crowdMarket](https://github.com/michkles/crowd_market) | Facebook/Ebay cross | Ruby on Rails, JavaScript, HTML/CSS, PostgreSQL, Bootstrap, Rspec, Capybara | 4 people, 10 days |  
+| [CatHub](https://github.com/michkles/CatHub) | Facebook clone for cats only | Ruby on Rails, JavaScript, HTML/CSS, PostgreSQL, Rspec, Capybara | 6 people, 5 days |
+| [MakersBNB](https://github.com/michkles/makersbnb) | AirBNB Clone | Ruby, Bootstrap, Sinatra | 6 people, 5 days |
+
 
 ## Skills
 
-#### This Skill
+#### Analytical thinker
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- One of my hobbies is stock trading where I have to analyze charts and make decisons based on the data I am presented.
 
-- Experience
-- Achievements
-- Evidence
+#### Determined
 
-#### Another Skill
+- I am not giving up easily and will do everything I can to finish the task even if it means working long hours.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Fast learner
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- During the course I was able to grasp basic concepts of JavaScript and Ruby on Rails in a span of only one week and create fully working websites using these technologies. 
+
+#### Problem solving
+
+- In my previous role as IT technician I had to resolve various computer hardware and software related issues.
+
+#### Patience
+
+- As a customer advisor I dealt with customers on daily basis. Being patient with customers was essential skill to provide the best service.
+
+#### Team work
+
+- During my university years I worked in teams to make miscellaneous presentations and projects. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2016 to December 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Academic
 
-#### Any other qualifications
+- MA in International Relations (The World Economy and International Trade): University of Szczecin (Poland) (2011-2014)
+- BA in International Relations: University of Szczecin (Poland) (2008-2011)
 
-## Experience
+## Other qualifications
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+### IT technician certificate (2006-2008)
+- using operating systems present in different networks
+- configuring hardware and software tools
+- replacing adapters/cards and other hardware modules
+- determining reasons for computer hardware failure
+
+## Professional experience
+
+**Express Gifts Ltd** (May 2015 to August 2016)
+*Warehouse assistant*
+Booking goods in using database software. Processing orders sheets for incoming and outgoing goods. Keeping records of stock.
+
+**Media Markt** (July 2009 to June 2014)
+*Electronics retail store - sales advisor*
+Answering queries related to products and informing customers about services that could suit them. Advising clients on best products.
+
+**Medialand** (2008-2009)
+*IT technician*  
+Assembling desktop computers and installing software. Fixing hardware and software issues. Managing and maintaining computer equipment.
+
+## Interests:
+
+- Football
+- Anything computer hardware related (IoT, wearables, pc/mac)
+- Gaming
+- Stock trading
+
